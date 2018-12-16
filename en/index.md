@@ -30,7 +30,7 @@ SARD is a non-profit clinical trial consortium, divided into 6 systemic autoimmu
     
     FAX:
     
-    Email:
+    Email: jla
 * Consortium secretary: 周秀琤
 
   Phone:
