@@ -30,8 +30,14 @@ header_pages:
 t:
   en:
     title: Taiwan Clinical Trial Consortium for Systemic Autoimmune Rheumatic Diseases
+    language:
+      en: English
+      zh-TW: Chinese
   zh-TW:
     title: 台灣全身性自體免疫風濕病臨床試驗合作聯盟
+    language:
+      en: 英文
+      zh-TW: 中文
 # Build settings
 markdown: kramdown
 theme: minima
