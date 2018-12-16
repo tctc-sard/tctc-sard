@@ -6,9 +6,10 @@ permalink: /en/research/
 ref: research
 ---
 
-藉由本聯盟臨床資料庫、臨床試驗結果及衛福部加值中心資料庫之整合，可進行 SARD 相關之特色研究，分述如下：
-1. 建立台灣 SARD 病患之長期世代追蹤：針對本聯盟 SARD 治療的患者，進行長期世代追蹤，以了解病程之進展與預後並增加研究族群之代表性。
-2. 台灣新藥試驗之特殊疾病風險的研究：SARD 多數新藥臨床試驗後之延伸試驗或新藥上市後之追蹤現況，可針對台灣特定疾病風險（如結核病與病毒性肝炎）進行資料分析，研究成果將具國際競爭性。
-3. 新穎生物標誌之研發：藉由本聯盟之自體抗體檢測平台，進行生物標本之檢測，並結合基礎研究，可發現新穎生物標識，並利用本聯盟建構之平台進行確認。
-4. 新治療技術前期之臨床試驗：針對衛福部公布之新醫療技術（如細胞治療與免疫治療），藉由疾病動物模式之結果，進行第一期之臨床試驗，提升我國之國際競爭力。
-5. 人工智慧(AI)運用之資料分析：整合 SARD 患者治療資料與生物資訊(bioinformatics)成為巨量資料，並結合衛福部加值中心資料庫，運用 AI 之深度學習方法，進行分類與預測，以發展 SARD 之精準醫療。
+
+Through the integration of the clinical database of the Alliance, the results of clinical trials, and the database of the Ministry of Health and Welfare, SARD-related research can be conducted, as follows:
+1. Establishing long-term follow-up of SARD patients in Taiwan: Long-term follow-up of patients treated with SARD in the Alliance to understand the progression and prognosis of the disease and increase the representation of the study population.
+2. Research on the risk of special diseases in Taiwan's new drug trials: follow-up status of extended tests or new drug after listing, can analyze data on specific disease risks in Taiwan (such as tuberculosis and viral hepatitis), the research results would be competitive internationally.
+3. Development of novel biomarkers: The detection of biological specimens by the self-antibody detection platform of the Alliance, combined with basic research, can discover novel biomarkers and confirm them using the platform constructed by the Alliance.
+4. Early stage clinical trials of new treatment technologies: For the new medical technologies (such as cell therapy and immunotherapy) announced by the Ministry of Health and Welfare, the first phase of clinical trials will be carried out through the results of the disease animal model to enhance Taiwan's international competitiveness.
+5. Data analysis of artificial intelligence (AI) applications: Integrating SARD patients' treatment data and bioinformatics into huge amounts of data, combined with the database from the Ministry of Health and Welfare, using AI's deep learning methods to classify and predict to develop SARD's precision medicine.
