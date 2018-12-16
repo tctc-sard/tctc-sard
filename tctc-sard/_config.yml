@@ -29,6 +29,17 @@ header_pages:
 - research.md
 - results.md
 
+t:
+  en:
+    title: Taiwan Clinical Trial Consortium for Systemic Autoimmune Rheumatic Diseases
+    about:
+      name: "About"
+      url: "/en/"
+  zh-TW:
+    title: 台灣全身性自體免疫風濕病臨床試驗合作聯盟
+    about:
+      name: "聯盟簡介"
+      url: "/zh-TW/"
 # Build settings
 markdown: kramdown
 theme: minima
