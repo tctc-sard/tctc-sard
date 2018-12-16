@@ -3,18 +3,20 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <a href="/{{ page_lang }}">{{ site.t[page.lang].title | escape }}</a>
+
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
+          <!-- Note: Site name is commented out for now. -->
+          <!--<li class="p-name">-->
+            <!--{%- if site.author -%}-->
+              <!--{{ site.author | escape }}-->
+            <!--{%- else -%}-->
+              <!--{{ site.title | escape }}-->
+            <!--{%- endif -%}-->
+            <!--</li>-->
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
