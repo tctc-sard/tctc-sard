@@ -2,7 +2,7 @@
 layout: page
 title: 聯盟成員
 lang: zh-TW
-permalink: /members/
+permalink: /zh-TW/members/
 ref: members
 ---
 

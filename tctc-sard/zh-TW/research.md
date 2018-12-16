@@ -2,7 +2,7 @@
 layout: page
 title: 專長研究
 lang: zh-TW
-permalink: /research/
+permalink: /zh-TW/research/
 ref: research
 ---
 

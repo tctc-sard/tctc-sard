@@ -2,7 +2,7 @@
 layout: page
 title: 試驗結果
 lang: zh-TW
-permalink: /results/
+permalink: /zh-TW/results/
 ref: results
 ---
 
