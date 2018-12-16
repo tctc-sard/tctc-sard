@@ -1,18 +1,34 @@
 ---
 layout: page
-title: About
+title: 聯盟介紹
+lang: zh-TW
 permalink: /about/
+ref: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 聯盟特色
+是一個非營利性的臨床試驗聯盟，分成六部自體免疫風濕疾病，包括全身性紅斑狼瘡、類風濕關節炎、修格連式症、硬皮症、免疫種關發炎性肌病變、及脊椎關節病變（僵直性脊椎炎、乾蘚性關節炎）。各個疾病皆有其重要器官侵犯，例如全身性紅斑狼瘡將腎臟病變，前五個疾病病發兼職肺病及費動脈高壓、脊椎關節及眼睛病變。此外這些疾病常合併共病，例如早發性動腺硬化及常職驗可（？？）。將透過 TCTC-SARD 聯盟發展影響精闢的指引，提供病患全人診療、且在成員兼分享臨床照護經驗及診療成果。因此 TCTC-SARD 的願景是使台灣成為國際 SARD 的臨床試驗與新藥申請的領先國家之一；TCTC-SARD 的目標是讓所有成員能共享臨床綜合資料庫、生物標本、自體抗體檢測平台及新穎生物標識，遂一起發起與執行研究或臨床試驗。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# 聯盟宗旨
+1. 建構台灣全身性自體免疫風濕病的臨床試驗聯盟，利於執行標準化之免疫風濕病的多中心臨床試驗，提升台灣在此項疾病的新藥申請與臨床試驗支國際競爭力。
+2. 藉由跨國新藥臨床試驗及國際研討會之舉辦，促進國際學術交流及本聯盟成員共享平台的資訊與資源，並培養國際型臨床試驗領導人才。
+3. 建立自體抗體與檢測平台，進行生物標本的檢測，提供臨床診斷之最佳依據，且發現新穎生物標誌，並可進行主持人發起之相關臨床試驗。
+4. 統合收集本聯盟 SARD 之臨床資訊、檢測結果及臨床試驗結果，建立電子臨床資料庫，並結合衛福部加值中心資料庫，讓本聯盟成員用於基礎與臨床研究及生醫產業發展依據，並確立 SARD 之最佳診斷與治療策略。
+5. 以人工智慧(AI)深度學習技術，針對整合的電子資料庫進行大數據分析，以發展 SARD 之精確預測模式（個人化治療）。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# 聯絡我們
+* 負責人：藍忠亮醫師
+<br/>中國醫藥大學附設醫院風濕免疫中心主治醫師／中國醫藥大學教授
 
+    地址：
+    
+    電話：
+    
+    傳真：
+    
+    電郵：
+* 聯盟秘書：周秀琤
 
-[jekyll-organization]: https://github.com/jekyll
+  電話：
+  
+  電郵：
