@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Research results
+title: Research achievement
 lang: en
 permalink: /en/results/
 ref: results
 ---
 
-Research owner | Test results in the last 3 years (early clinical trials)
+Research owner | Trials achievement in the last 3 years (early phases clinical trials)
 --- | ---
 Joung-Liang Lan | ~~~
 Der-Yuan Chen | ~~~
-陳怡行 | 
-魏正宗 |
-謝松洲 |
-陳相成 | 
-李修身 |
-翁孟玉 |
-鄭添財 |
-呂聆音 |
+Ying-Ming Chiu | ~~~
+Yi-Hsing Chen | ~~~
+Cheng-Chung Wei | ~~~
+Song-Chou Hsieh | ~~~
+Hsiang-Cheng Chen | ~~~
+Chyou-Shen Lee | ~~~
+Meng-Yu Weng | ~~~
+Tien-Tsai Cheng | ~~~
+Ling-Ying Lu | ~~~
