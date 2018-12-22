@@ -15,7 +15,6 @@ Yi-Hsing Chen | ~~~
 Cheng-Chung Wei | ~~~
 Song-Chou Hsieh | ~~~
 Hsiang-Cheng Chen | ~~~
-Chyou-Shen Lee | ~~~
 Meng-Yu Weng | ~~~
 Tien-Tsai Cheng | ~~~
-Ling-Ying Lu | ~~~
+Jui-Cheng Tseng | ~~~
