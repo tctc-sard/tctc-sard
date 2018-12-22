@@ -8,7 +8,7 @@ ref: members
 
 Name | Organization | Email
 --- | --- | ---
-Dr. Joung-Liang Lan(Consortium PI) | China Medical University Hospital / Rheumatology and Immunology Center | jounglan@me.com
+Dr. Joung-Liang Lan(Consortium PI) | China Medical University Hospital / Rheumatology and Immunology Center | jll.trial@gmail.com
 Dr. Der-Yuan Chen (Co-PI) | China Medical University Hospital / Rheumatology and Immunology Center | dychen1957@gmail.com
 Dr. Ying-Ming Chiu (Co-PI) | China Medical University Hospital / Rheumatology and Immunology Center | ymcgreen@yahoo.com.tw
 Dr. Yi-Hsing Chen (Co-PI) | Taichung Veterans General Hospital / Division of Allergy, Immunology and Rheumatology  | ysanne@yahoo.com.tw
