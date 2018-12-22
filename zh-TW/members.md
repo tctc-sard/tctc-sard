@@ -16,4 +16,4 @@ ref: members
 陳相成(協同主持人) | 三軍總醫院/風濕免疫科 | alex0624x@yahoo.com.tw
 翁孟玉(協同主持人) | 成功大學附醫/風濕免疫科 |	maggieweng@yahoo.com
 鄭添財(協同主持人) | 高雄長庚紀念醫院/風濕免疫科 |	Tiantsai0919@gmail.com
-曾瑞成(協同主持人) | 高雄榮民總醫院/風濕免疫科 | @vghks.gov.tw
+曾瑞成(協同主持人) | 高雄榮民總醫院/風濕免疫科 | jctseng@vghks.gov.tw
