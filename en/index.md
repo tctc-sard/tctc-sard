@@ -27,9 +27,9 @@ SARD is a non-profit clinical trial consortium, divided into six systemic autoim
 
     Address: No.2, Yuh-Der Rd., North Dist, Taichung City 404, Taiwan
     
-    Phone: 886-22052121 ext.4669
+    Phone: 886-22052121 ext.4666
     
-    FAX: 886-22053366 ext.5803
+    FAX: 886-22073812
     
     Email: jounglan@me.com
 * Consortium secretary: Hsiu-Cheng Chou
