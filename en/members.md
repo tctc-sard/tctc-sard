@@ -9,7 +9,7 @@ ref: members
 Name | Organization | Email
 --- | --- | ---
 Dr. Joung-Liang Lan (Consortium PI) | China Medical University Hospital / Rheumatology and Immunology Center | jll.trial@gmail.com
-Dr. Der-Yuan Chen (Co-PI) | China Medical University Hospital / Rheumatology and Immunology Center | dychen1957@gmail.com
+Dr. Der-Yuan Chen (Co-PI and Project Manager) | China Medical University Hospital / Rheumatology and Immunology Center | dychen1957@gmail.com
 Dr. Yi-Hsing Chen (Co-PI) | Taichung Veterans General Hospital / Division of Allergy, Immunology and Rheumatology  | ysanne@yahoo.com.tw
 Dr. Cheng-Chung Wei (Co-PI) | Chung Shan Medical University Hospital /  Division of Immunology and Rheumatology | wei3228@gmail.com
 Dr. Song-Chou Hsieh (Co-PI) | National Taiwan University Hospital / Division of Immunology and Rheumatology | hsiehsc@ntu.edu.tw
