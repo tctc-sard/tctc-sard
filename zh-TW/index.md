@@ -30,7 +30,7 @@ lang: zh-TW
     
     傳真：04-22073812
     
-    電郵：jounglan@me.com
+    電郵：jll.trial@gmail.com
 * 聯盟秘書：周秀琤
 
   電話：04-22052121 轉4630
